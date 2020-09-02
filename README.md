@@ -33,7 +33,7 @@ From Android Studio:
 
 ## Maintainers
 This project is mantained by:
-* [Federico Ramundo](http://github.com/framundo)
+* [Gaurav Singh](http://github.com/gauravsingh9356)
 
 
 ## Contributing
